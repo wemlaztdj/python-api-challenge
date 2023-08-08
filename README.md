@@ -6,6 +6,7 @@ Module 6 Challenge
 pip install pandas
 pip install scipy
 pip install numpy
+pip install citipy
 ```
 ## API
 https://openweathermap.org/api
